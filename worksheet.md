@@ -9,8 +9,9 @@ Respond to my comments by making new commits to the same branch.
 
 ## Review
 1. In your own words, explain what an ArrayList is. 
-
+It is a collection of elements that can be adjusted in size after initialization
 2. In your own words, explain what a LinkedList is. How is it different from an ArrayList?
+A linked list is a collection of elements with the difference being the concepts of nodes being implemented.
 
 ## Exploration
 
